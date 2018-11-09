@@ -1,4 +1,4 @@
-# Charlie Lab 4
+# Charlie Lab 3 grading
 # Display a letter grade from an integer input
 import math
 #  define a variable for user input

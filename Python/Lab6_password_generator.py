@@ -1,4 +1,4 @@
-#Charlie Lab 5 random emoticon
+#Charlie Lab 6 password generator
 
 # create a password of a certain length.
 import random
@@ -15,3 +15,4 @@ while i <= user_input:
     i += 1
 print(f' here is your {user_input} character passworod!') # f string to repeat back user selection
 print(generate) # display generated password
+
