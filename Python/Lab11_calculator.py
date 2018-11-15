@@ -6,8 +6,6 @@
 # 
 
 nums = []
-
-nums = []
 while True:
     user = input('What function would you like to: ')  # prompt user
 
