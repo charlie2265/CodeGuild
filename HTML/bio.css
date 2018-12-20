@@ -1,0 +1,32 @@
+
+
+body{
+    text-align: center
+
+}
+img{
+    float: top
+
+}
+img{
+    border-radius: 30px
+}
+a{
+    color: red
+}
+section{
+    /* padding-top: 50px */
+}
+section {
+    padding-right: 500px
+}
+section{
+    padding-left: 500px
+}
+body{
+    background-color: brown
+}
+
+ul{
+    list-style-type: "☞"
+}
