@@ -37,7 +37,7 @@ def main():
     ''' main function. test, then call the other functions with conditionals. 
     maybe a repl...
     '''
-    print(ones_word(35))
+    print(ones_word(50))
 
 
 main()

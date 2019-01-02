@@ -1,0 +1,83 @@
+/* @import url(https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css); */
+
+nav{
+    background-color: gray;
+    text-align: center;  
+    position: sticky;
+    top: 0;
+    z-index: 3;
+
+}
+     
+.level{
+    font-family: cursive;
+    font-size: 2em;
+    
+}
+    
+    
+    
+.logo img{
+    border-radius: 500px;
+    height: 200px;
+}
+
+
+
+.welcome{
+    text-align: center;
+    background-color: gray;
+    font-family: cursive;
+    font-size: 2em;
+    padding-right: 70px;
+    
+
+}
+
+a{
+    color: white;
+    padding: 30px;
+    text-decoration: none;    
+}  
+
+section{
+    padding-top: 100px;
+}
+
+body{
+    background-image: url(https://petterlehto.com/image/213535-full_110-best-guardian-angel-tattoos-designs-meanings-2018.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.works{
+    background-color: gray;
+}
+.block{
+    padding-top: 100px;
+}
+p{
+    font-family: cursive;
+    text-align: center;
+    font-weight: 900;
+    padding-right: 65px;
+}
+.img1{
+    /* border-radius: 500%;     */
+}
+
+.img2{
+    height: 200px;
+    /* border-radius: 500%; */
+    
+}
+.img3{
+    height: 200px;
+    /* border-radius: 700%; */
+}
+
+
+    
+
+    
+
