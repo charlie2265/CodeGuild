@@ -36,7 +36,7 @@ def play100k():
     for i in range(100000):
         ticket = pick6()
         balance -= 2
-        matches = num_matches(winning, ticket )
+        matches = num_matches(winning, ticket)
         payout = winnings[matches]
         balance += payout
 

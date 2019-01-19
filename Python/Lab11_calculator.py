@@ -7,7 +7,7 @@
 
 nums = []
 while True:
-    user = input('What function would you like to: ')  # prompt user
+    user = input('What function would you like to: ')   # prompt user
 
     if user == 'done':  # allow user to end program
 

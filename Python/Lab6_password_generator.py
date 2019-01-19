@@ -13,6 +13,6 @@ i = 0 #while loop to iterate through the password variable
 while i <= user_input:
     generate += random.choice(password) # choosing characters and putting them in empty string
     i += 1
-print(f' here is your {user_input} character passworod!') # f string to repeat back user selection
+print(f' here is your {user_input} character passworod') # f string to repeat back user selection
 print(generate) # display generated password
 
